@@ -1,11 +1,12 @@
 # The-C-Programming-Language
 This is a repository that contains solutions to the problems of one the most fundamental books of Computer Science- "The C Programming Language"
-also known as "K&R" based on named of the authors Kernighan and Ritchie. I do not hold any copyright over the book for they remain with the author
-and the publisher PHI. 
-These solutions are correct to my knowledge(as little as it is). Any suggestions to improve them are highly appreciated.
+also known as "K&R" based on named of the authors -Kernighan and Ritchie. I do not hold any copyright over the book for they remain with the author and the publisher PHI. 
+These solutions are correct to my knowledge(as little as it is). Any suggestions to improve the solutions are highly appreciated.
 
 ## Chapter 1- A Tutorial Introduction
   
+ | Array math                | [[https://www.interviewbit.com/problems/min-steps-in-infinite-grid/][Min Steps in Infinite Grid]]      | [[/C++/coverPoints.cpp][C++]]        | Simpler Than I originally thought. |
+
 |  [Exercise 1-3](Solutions/Exercise1_3.c)                | [Exercise 1-4](Solutions/Exercise1_4.c)      | [Exercise 1-5](Solutions/Exercise1_5.c) |
 
 [Exercise 1-6](Solutions/Exercise1_6.c)
