@@ -6,7 +6,7 @@ These solutions are correct to my knowledge(as little as it is). Any suggestions
 ## Chapter 1- A Tutorial Introduction
 Topic   |   Solution   |   Notes
  ------|----------|----------
-Print heading above tempearure conversion program | [Exercise 1-3](Solutions/Chapter-1/Exercise1_3.c)|    
+Print heading above tempearure conversion program | [Exercise 1-3](Solutions/Chapter 1/Exercise1_3.c)|    
 Print Celsius to Fahrenheit Table                 | [Exercise 1-4](Solutions/Chapter-1/Exercise1_4.c)|    
 Print Fahrenheit to Celsius Table in reverse order | [Exercise 1-5](Solutions/Chapter-1/Exercise1_5.c)| 
 Verify getchar!=EOF is 0 or 1                     | [Exercise 1-6](Solutions/Chapter-1/Exercise1_6.c)|    
