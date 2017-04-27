@@ -7,24 +7,25 @@
 int main()
 {
   int c,state;
-  state=OUT; // OUT= no blank seen so far
-	     //  IN= one balnk already seen 
+  state=OUT; // OUT= not seen a word
+             // IN= inside the word
   while((c=getchar())!=EOF)
   {
     if(state==OUT&& (c==' '||c=='\t'||c=='\n'))
     {
-      putchar('\n');
-      state=IN;
+      //putchar('\n');
+      //state=IN;
     }
     else if(state==IN && (c==' '||c=='\t'||c=='\n'))
-    {	;// do nothing
+    {
+      putchar('\n');
+      state=OUT;
     }
-    else 
+    else
     {
       putchar(c);
-      state=OUT;
+      state=IN;
     }
   }
   return 0;
 }
-
