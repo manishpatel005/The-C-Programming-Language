@@ -14,3 +14,4 @@ Print value of EOF                                | [Exercise 1-7](Solutions/Cha
 Count Blanks Tabs and NewLines                    | [Exercise 1-8](Solutions/Chapter-1/Exercise1_8.c)|   
 Copy input to output and replace multiple blanks by single blank| [Exercise 1-9](Solutions/Chapter-1/Exercise1_9.c)|   
 Copy I/P to O/P replacing tabs by \t. backspace by \b and backslash by \\ | [Exercise 1-10](Solutions/Chapter-1/Exercise1_10.c)|   
+Program that prints its input one word per line | [Exercise 1-12](Solutions/Chapter-1/Exercise1_12.c)| 
