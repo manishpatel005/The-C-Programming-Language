@@ -15,3 +15,6 @@ Count Blanks Tabs and NewLines                    | [Exercise 1-8](Solutions/Cha
 Copy input to output and replace multiple blanks by single blank| [Exercise 1-9](Solutions/Chapter-1/Exercise1_9.c)|   
 Copy I/P to O/P replacing tabs by \t. backspace by \b and backslash by \\ | [Exercise 1-10](Solutions/Chapter-1/Exercise1_10.c)|   
 Program that prints its input one word per line | [Exercise 1-12](Solutions/Chapter-1/Exercise1_12.c)| 
+Program to print the histogram of length of words in its input | [Exercise 1-13](Solutions/Chapter-1/Exercise1_13.c)| 
+Program to print histogram of frequencies of different characters | [Exercise 1-14](Solutions/Chapter-1/Exercise1_14.c)| 
+Program to convert Fahrenheit to Celsius using function | [Exercise 1-15](Solutions/Chapter-1/Exercise1_15.c)| 
