@@ -18,3 +18,4 @@ Program that prints its input one word per line | [Exercise 1-12](Solutions/Chap
 Program to print the histogram of length of words in its input | [Exercise 1-13](Solutions/Chapter-1/Exercise1_13.c)| 
 Program to print histogram of frequencies of different characters | [Exercise 1-14](Solutions/Chapter-1/Exercise1_14.c)| 
 Program to convert Fahrenheit to Celsius using function | [Exercise 1-15](Solutions/Chapter-1/Exercise1_15.c)| 
+Program to print length of arbitrary long input lines and as much possible of the text | [Exercise 1-16](Solutions/Chapter-1/Exercise1_16.c)| 
