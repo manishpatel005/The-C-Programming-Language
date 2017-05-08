@@ -25,3 +25,4 @@ These solutions are correct to my knowledge(as little as it is). Any suggestions
 | Program "Detab" that replaces tabs in the input with proper number of blanks | [Exercise 1-20](Solutions/Chapter-1/Exercise1_19.c)|
 | Program "Entab" that replaces strings of blanks by the minimum number of blanks and tabs | [Exercise 1-21](Solutions/Chapter-1/Exercise1_21.c)|
 | Program to "Fold" long input lines into two or more shorter lines | [Exercise 1-22](Solutions/Chapter-1/Exercise1_22.c)|
+| Program to remove all comments from a C program | [Exercise 1-23](Solutions/Chapter-1/Exercise1_23.c)|
