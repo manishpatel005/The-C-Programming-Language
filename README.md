@@ -4,7 +4,7 @@ also known as "K&R" based on named of the authors -Kernighan and Ritchie. I do n
 These solutions are correct to my knowledge(as little as it is). Any suggestions to improve the solutions are highly appreciated.
 
 ## Chapter 1- A Tutorial Introduction
-Topic   |   Solution   |   Notes
+Topic      |       Solution   |   Notes
  ------|----------|----------
 Print heading above tempearure conversion program | [Exercise 1-3](Solutions/Chapter-1/Exercise1_3.c)|    
 Print Celsius to Fahrenheit Table                 | [Exercise 1-4](Solutions/Chapter-1/Exercise1_4.c)|    
@@ -22,6 +22,6 @@ Program to print length of arbitrary long input lines and as much possible of th
 Program to print all input lines that are longer than 80 characters | [Exercise 1-17](Solutions/Chapter-1/Exercise1_17.c)|
 Program to remove trailing blanks and tabs from each line of input and delete entirely blank lines  | [Exercise 1-18](Solutions/Chapter-1/Exercise1_18.c)|
 Program that reverses its input a line at a time | [Exercise 1-19](Solutions/Chapter-1/Exercise1_19.c)|
-Program "Detab" that replaces tabs in the input with proper number of blanks to reach to next tab stop | [Exercise 1-20](Solutions/Chapter-1/Exercise1_19.c)|
-Program "Entab" that replaces strings of blanks by the minimum number of blanks and tabs to achive same spacing | [Exercise 1-21](Solutions/Chapter-1/Exercise1_21.c)|
+Program "Detab" that replaces tabs in the input with proper number of blanks | [Exercise 1-20](Solutions/Chapter-1/Exercise1_19.c)|
+Program "Entab" that replaces strings of blanks by the minimum number of blanks and tabs | [Exercise 1-21](Solutions/Chapter-1/Exercise1_21.c)|
 Program to "Fold" long input lines into two or more shorter lines | [Exercise 1-22](Solutions/Chapter-1/Exercise1_22.c)|
