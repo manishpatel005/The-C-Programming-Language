@@ -22,7 +22,18 @@ These solutions are correct to my knowledge(as little as it is). Any suggestions
 | Program to print all input lines that are longer than 80 characters | [Exercise 1-17](Solutions/Chapter-1/Exercise1_17.c)|
 | Program to remove trailing blanks and tabs from each line of input and delete entirely blank lines  | [Exercise 1-18](Solutions/Chapter-1/Exercise1_18.c)|
 | Program that reverses its input a line at a time | [Exercise 1-19](Solutions/Chapter-1/Exercise1_19.c)|
-| Program "Detab" that replaces tabs in the input with proper number of blanks | [Exercise 1-20](Solutions/Chapter-1/Exercise1_19.c)|
-| Program "Entab" that replaces strings of blanks by the minimum number of blanks and tabs | [Exercise 1-21](Solutions/Chapter-1/Exercise1_21.c)|
-| Program to "Fold" long input lines into two or more shorter lines | [Exercise 1-22](Solutions/Chapter-1/Exercise1_22.c)|
+| Program `Detab` that replaces tabs in the input with proper number of blanks | [Exercise 1-20](Solutions/Chapter-1/Exercise1_19.c)|
+| Program `Entab` that replaces strings of blanks by the minimum number of blanks and tabs | [Exercise 1-21](Solutions/Chapter-1/Exercise1_21.c)|
+| Program to `Fold` long input lines into two or more shorter lines | [Exercise 1-22](Solutions/Chapter-1/Exercise1_22.c)|
 | Program to remove all comments from a C program | [Exercise 1-23](Solutions/Chapter-1/Exercise1_23.c)|
+
+
+## Chapter 2- Types,Operators, and Expressions
+|  Topic      |       Solution |
+|-------------|:----------------|
+| Program to determine ranges of char, short, int and long variables | [Exercise 2-1](Solutions/Chapter-2/Exercise2_1.c)|    
+| Program to have for-loop equivalence without \&\& and \|\|         | [Exercise 2-2](Solutions/Chapter-2/Exercise2_2.c)|  
+| Program `htoi` to convert hexadecimal to integer                     | [Exercise 2-3](Solutions/Chapter-2/Exercise2_3.c)| 
+| Program `squeeze` that deletes each char in s1 that matches each char in s2 | [Exercise 2-4](Solutions/Chapter-2/Exercise2_4.c)| 
+| Program `any`to return first location in s1 where any char from s2 occurs | [Exercise 2-5](Solutions/Chapter-2/Exercise2_5.c)| 
+| Program `setbits` that returns x with n bits that begin at position p set to the rightmost n bits of y | [Exercise 2-6](Solutions/Chapter-2/Exercise2_6.c)| 
